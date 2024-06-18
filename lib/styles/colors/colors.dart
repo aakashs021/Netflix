@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color white=Colors.white;
+const Color black=Colors.black;
+const Color red=Colors.red;
+const Color shimmerbasecolor=Colors.black45;
+const Color shimmerhighlightcolor=Colors.white54;
+const Color transparent=Colors.transparent;
+const Color grey=Colors.grey;
+const Color yellow=Colors.yellow;
+const Color green=Colors.green;
+final Color shimmerblack=Colors.grey.shade900;
+final Color detailpagerating=Colors.grey.shade800;
+final Color homepageblackwithopacity= Colors.black.withOpacity(0.7);
+final Color netflixtop10numberblackopacity=Colors.black.withOpacity(0.5);
+final Color buttononprimaryopacity=Colors.black.withOpacity(0.1);
+final Color downloadpagetextcolor=Colors.grey.shade400;
+final Color downloadpagecircleavatarcolor=Colors.grey.shade600;
+final Color shimmerforrecommendedgridbasecolor=Colors.grey.shade300;
+final Color shimmerforrecommendedgridhighlightcolor=Colors.grey.shade100;
+final Color shimmerLoadingfortab1highlightcolor=Colors.green.shade800;
+final Color shimmersearchpagetextfeildiconscolor=Colors.grey.shade500;
